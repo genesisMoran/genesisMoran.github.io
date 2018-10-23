@@ -1,5 +1,25 @@
-body{
-	color: rgb(160, 85, 157);
-	font-family: 'Sunflower', sans-serif;
-	font-size: 18px;
+body {
+	background-color: rgb(195, 157, 227);
+	color: whitesmoke;
+	font-family: 'Chakra Petch', sans-serif;
 }
+
+.container {
+	text-align: center;
+}
+/* change background color on hover */
+	.p-1:hover {
+		background-color: rgb(172, 132, 220);
+	}
+
+	.p-2:hover {
+		background-color: rgb(170, 147, 230);   
+	}
+
+	.p-3:hover {
+		background-color: rgb(150, 138, 219);  
+	}
+
+	.p-4:hover {
+		background-color: rgb(143, 114, 193);
+	}
