@@ -23,3 +23,7 @@ body {
 	.p-4:hover {
 		background-color: rgb(143, 114, 193);
 	}
+
+b {
+	color: #2E1B83;
+}
